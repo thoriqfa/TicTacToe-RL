@@ -62,7 +62,6 @@ results_10 = [sum(results[i:i+10]) for i in range(0, episodes, 10)]
 plt.plot(x_axis, results_10)
 plt.show()
 
-print("Testing for git")
 
 play = 2
 for i in range(play):
