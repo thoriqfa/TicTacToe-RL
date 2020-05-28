@@ -77,3 +77,13 @@ class random_comp(object):
         if len(actions) == 0:
             return -1
         return random.choice(actions)
+
+class first_available_pos(object):
+    def __init__(self):
+        super().__init__()
+    
+    def choose_action(self, state):
+        actions = [i for i, v in enumerate(state) if v == 0]
+        if len(actions) == 0:
+            return -1
+        return actions[0]
