@@ -1,0 +1,18 @@
+Q_val_1_6.txt
+Q_val_1_7.txt
+Q_val_1_8.txt
+Q_val_100_6.txt
+Q_val_10000_1.txt
+Q_val_10000_2.txt
+Q_val_10000_4.txt
+Q_val_10000_5.txt
+Q_val_10000_9.txt
+Q_val_10000_10_eprd.txt
+Q_val_100000_3.txt
+q_value 10 episodes.txt
+win graph 10000 episodes 2.png
+win graph 10000 episodes 3 with epsilon reduction.png
+win graph 10000 episodes 4 with epsilon reduction.png
+win graph 10000 episodes.png
+__pycache__/agents.cpython-37.pyc
+__pycache__/tictactoe_game.cpython-37.pyc
